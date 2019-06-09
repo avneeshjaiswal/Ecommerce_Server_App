@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "954298945304",
+    "firebase_url": "https://myproject-7ce35.firebaseio.com",
+    "project_id": "myproject-7ce35",
+    "storage_bucket": "myproject-7ce35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954298945304:android:98c7413548890c61",
+        "android_client_info": {
+          "package_name": "com.example.oem.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954298945304-bfilsndgpm1j0bnbtrql2jm9tcrihg8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oem.ecommerce",
+            "certificate_hash": "5c9f3c4a07844f3657e3832462a20bf77bb5cbc7"
+          }
+        },
+        {
+          "client_id": "954298945304-5hbog2ncl8fpe9j17d938ul3gh1otcmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlNXd_fyVMZKXYPGtMLguyzxhMfwvzqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954298945304-5hbog2ncl8fpe9j17d938ul3gh1otcmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954298945304:android:ce604a2bb51918a0",
+        "android_client_info": {
+          "package_name": "com.example.avneeshjaiswal.ecommerceserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954298945304-9pk6vki2s4khfhlg6bpdosfhlahsaqn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avneeshjaiswal.ecommerceserver",
+            "certificate_hash": "5c9f3c4a07844f3657e3832462a20bf77bb5cbc7"
+          }
+        },
+        {
+          "client_id": "954298945304-5hbog2ncl8fpe9j17d938ul3gh1otcmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlNXd_fyVMZKXYPGtMLguyzxhMfwvzqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954298945304-5hbog2ncl8fpe9j17d938ul3gh1otcmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
