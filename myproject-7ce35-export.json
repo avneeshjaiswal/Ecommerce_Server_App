@@ -1,0 +1,732 @@
+{
+  "Banner" : {
+    "01" : {
+      "id" : "01",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fchiken-hydrabadi-biryani.jpg?alt=media&token=7e3f7a0f-cc21-42ab-87de-676315706dd4",
+      "name" : "Chicken-Hyderabadi-Biryani"
+    },
+    "02" : {
+      "id" : "05",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2Fmushroom-dumpling.jpg?alt=media&token=53f21af0-a9de-47b6-98e3-3cb04ab90ee4",
+      "name" : "Mushroom-Dumpling"
+    },
+    "03" : {
+      "id" : "09",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2FVegetable-Manchow-Soup-Sanjeev-Kapoor-Kitchen-FoodFood.JPG?alt=media&token=06d9b391-7c42-4762-8b56-db14354718e7",
+      "name" : "Peking Soup"
+    },
+    "04" : {
+      "id" : "13",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Biryani%20by%20Kilos%2FGalauti_Kebab_Smoked_Lamb_Patties.jpg?alt=media&token=0a444c18-faf1-4579-9316-3c688d268eef",
+      "name" : "Mutton Galouti Kebab"
+    },
+    "05" : {
+      "id" : "17",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fpeperoni-pizza.jpg?alt=media&token=0df2d5d2-57cb-4b71-82b6-1a901a2b8bc8",
+      "name" : "Italian Pepperoni Pizza"
+    },
+    "06" : {
+      "id" : "22",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Chi%20Asian%20Cookhouse%2Fkimchi.jpg?alt=media&token=add39c0b-33cc-4c80-86fd-747fea7b2e1d",
+      "name" : "Korean Salad with Kimchi"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "description" : "Hyderabadi Chicken Biryani is a non-vegetarian rice dish made with moderate spices and tender chicken pieces.This Indian chicken biryani is slow cooked to perfection and served as a main course. It is a delectable rice delight that is famous globally for its perfect balance of flavored spices mixed with chicken",
+      "food_name" : "Chicken-Hyderabadi-Biryani",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fchiken-hydrabadi-biryani.jpg?alt=media&token=7e3f7a0f-cc21-42ab-87de-676315706dd4",
+      "price" : "300",
+      "res_id" : "001"
+    },
+    "02" : {
+      "description" : "This hyderabadi veg biryani or hyderabadi vegetable biryani recipe is a slowly cooking method where the preferred vegetables are stir fried and mixed with all the spices to make a sabzi masala, mixed with half cooked rice and placed on dum and this biryani is usually referred as tarkari ki biryani or sabzi biryani",
+      "food_name" : "Tarkari-Hyderabadi-Biryani",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fhyderabadi-vegetable-biryani.jpg?alt=media&token=1891c078-6904-4fb9-b9ca-2857d364dd78",
+      "price" : "250",
+      "res_id" : "001"
+    },
+    "03" : {
+      "description" : "The cottony pile is scooped out delicately and topped off with sugar, green cardamom, almond flakes and pistachios. What I love the most are the bits of malai, added later, that simply melt on your tongue. It is then embellished with 'Chandi ka Warq' (silver leaf) as a final touch",
+      "food_name" : "Daulat-Ki-Chaat",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fdaulat-ki-chaat.jpg?alt=media&token=730ec544-2602-44d4-b541-8a9561476e8e",
+      "price" : "150",
+      "res_id" : "001"
+    },
+    "04" : {
+      "description" : "A rice pudding from the cuisine of the Indian subcontinent and Iran (Persia), made by boiling rice, broken wheat, tapioca, or vermicelli with milk and sugar; it is flavoured with cardamom, raisins, saffron, cashews, pistachios or almonds. It is typically served during a meal or as a dessert",
+      "food_name" : "Phirni",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fphirni.jpg?alt=media&token=1edf67d3-f77d-4fb2-98e6-29f07cb1d370",
+      "price" : "100",
+      "res_id" : "001"
+    },
+    "05" : {
+      "description" : "Shiitake mushrooms, oyster mushrooms, garlic, and scallions are cooked in sesame oil, sealed in dumpling wrappers, and steamed or pan-fried to perfection. These can be enjoyed two different ways: as dumplings (i.e., steamed) or as potstickers (i.e., pan-fried and then briefly steamed)",
+      "food_name" : "Mushroom-Dumpling",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2Fmushroom-dumpling.jpg?alt=media&token=53f21af0-a9de-47b6-98e3-3cb04ab90ee4",
+      "price" : "245",
+      "res_id" : "002"
+    },
+    "06" : {
+      "description" : "Crystal dumplings are a unique kind of dumpling that takes the name crystal as it looks a bit like a crystal on the outside with it’s almost translucent skin",
+      "food_name" : "Spicy-Chicken-Crystal-Dumpling",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2Fchicken-crystal-dumpling.jpg?alt=media&token=93737201-6b6a-450d-9d36-99531d3d1062",
+      "price" : "275",
+      "res_id" : "002"
+    },
+    "07" : {
+      "description" : "Round up your meal with this lip-smacking dessert. Crispy fried noodles drizzled with honey is a hot and cold combination when served with a nice dollop of vanilla ice-cream",
+      "food_name" : "Honey-Glazed-Flat-Noodles",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2FHoney-Glazed-Noodles.jpg?alt=media&token=94113fe1-50c9-4af1-91ec-98538af59686",
+      "price" : "200",
+      "res_id" : "002"
+    },
+    "08" : {
+      "description" : "Vegetable manchow soup is a delightful Indo-Chinese thick soup which gets an extra bit of crunch with a garnish of deep-fried crispy noodles. A mix of finely chopped nutritious veggies sauteed along with Chinese sauces, cooked in flavourful vegetable stock  and thickened with corn flour. The dark brown aromatic broth studded with colourful veggies – makes your mouth water as soon as it hits the table.",
+      "food_name" : "Manchow Soup",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2Fpeking%20soup.jpg?alt=media&token=9e9bb136-b2f2-4bd5-9f74-41410d7adf18",
+      "price" : "125",
+      "res_id" : "003"
+    },
+    "09" : {
+      "description" : "this soup is made with red and green chillies, ginger, carrots, snow peas, tofu, soy sauce, rice vinegar and a pinch of sugar. It is viewed in India as being a Chinese soup.",
+      "food_name" : "Peking Soup",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2FVegetable-Manchow-Soup-Sanjeev-Kapoor-Kitchen-FoodFood.JPG?alt=media&token=06d9b391-7c42-4762-8b56-db14354718e7",
+      "price" : "125",
+      "res_id" : "003"
+    },
+    "10" : {
+      "description" : "Redolent of sweet spices like cinnamon, anise and cloves, this five spice chicken is comforting and delicious over a bowl of steaming hot rice. ",
+      "food_name" : "Five Spice Chicken",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2Ffive%20spice%20chicken.jpg?alt=media&token=e31da880-b426-4acb-b9ee-51948a2b5c0b",
+      "price" : "325",
+      "res_id" : "003"
+    },
+    "11" : {
+      "description" : "A delightful preparation of crispy noodles served with vegetables and a tangy sauce.",
+      "food_name" : "American chop souey",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2Famerican%20chosuey.jpg?alt=media&token=afc56bc1-0a60-47a3-809b-912de0146795",
+      "price" : "275",
+      "res_id" : "003"
+    },
+    "12" : {
+      "description" : "Cooked noodles are pan-fried till both sides of the noodles are crisp and golden. This is served with a thick vegetable sauce.",
+      "food_name" : "pan fried noodles",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2FHoney-Glazed-Noodles.jpg?alt=media&token=94113fe1-50c9-4af1-91ec-98538af59686",
+      "price" : "265",
+      "res_id" : "003"
+    },
+    "13" : {
+      "description" : "Galauti Kebab is a Mughlai recipe made using lamb shoulder meat, rose water and cashews. This is a main dish recipe for occasions like parties and dinners.",
+      "food_name" : "Mutton Galouti Kebab",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Biryani%20by%20Kilos%2FGalauti_Kebab_Smoked_Lamb_Patties.jpg?alt=media&token=0a444c18-faf1-4579-9316-3c688d268eef",
+      "price" : "300",
+      "res_id" : "004"
+    },
+    "14" : {
+      "description" : "Paneer Pasanda is a delicacy consisting of stuffed paneer with rich creamy gravy. Paneer Pasanda is a delicious and perfect dish for formal get-togethers or when you simply want to indulge yourself.",
+      "food_name" : "Paneer Pasanda",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Biryani%20by%20Kilos%2FpaneerPasanda.jpg?alt=media&token=65fcca8e-420c-4d8b-a77f-6d82150acea2",
+      "price" : "375",
+      "res_id" : "004"
+    },
+    "15" : {
+      "description" : "Rumali roti is a thin flatbread originating from the Indian subcontinent; popular in India and in Punjab",
+      "food_name" : "Rumali Roti",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Biryani%20by%20Kilos%2Frumali.jpg?alt=media&token=16fb199c-45fa-44fb-b0dc-064197780245",
+      "price" : "30",
+      "res_id" : "004"
+    },
+    "16" : {
+      "description" : "Chilli Paneer is a popular restaurant style Indo chinese starter. This recipe yields one of the best chilli paneer dry that pairs well with a veg fried rice, schezwan fried rice, hakka noodles, or can be served as a starter.",
+      "food_name" : "Classic Chilli Paneer With Pepper",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fchilli_paneer.jpg?alt=media&token=34ebea31-414c-4547-9bdc-b050587cabff",
+      "price" : "363",
+      "res_id" : "005"
+    },
+    "17" : {
+      "description" : "Topped with cheesy goodness and turkey pepperoni, this pizza is bound to be a hit with the whole family",
+      "food_name" : "Italian Pepperoni Pizza",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fpeperoni-pizza.jpg?alt=media&token=0df2d5d2-57cb-4b71-82b6-1a901a2b8bc8",
+      "price" : "500",
+      "res_id" : "005"
+    },
+    "18" : {
+      "description" : "Bursting with rich aroma of herbs & spices and flavours, pizza is one of the most loved dishes of Italian cuisine",
+      "food_name" : "Exotic Veg Pizza",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fveg%20pizza.jpg?alt=media&token=e9586650-cc55-4d46-a8d1-98ed876e8c19",
+      "price" : "450",
+      "res_id" : "005"
+    },
+    "19" : {
+      "description" : "are a type of dumpling composed of a filling sealed between two layers of thin pasta dough. Usually served either in broth or with a pasta sauce, they originated as a traditional food in Italian cuisine.",
+      "food_name" : "Ravioli",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fravioli.jpg?alt=media&token=8760fb0d-c572-4b93-947c-925dafa5ccb0",
+      "price" : "300",
+      "res_id" : "005"
+    },
+    "20" : {
+      "description" : "Enriched with the goodness of chocolate, Chocolate Waffles is a perfect breakfast recipe made using milk, flour, eggs and chocolate sauce.",
+      "food_name" : "Waffles With Chocolate Syrup",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fchocolatewaffles.jpg?alt=media&token=13f66569-5cdf-48cc-a7b5-fc7469289a2e",
+      "price" : "350",
+      "res_id" : "005"
+    },
+    "21" : {
+      "description" : "Dumpling Soup is the ultimate Asian comfort food. The hoisin sauce in this recipe gives it a nice sweet and spicy kick.",
+      "food_name" : "Dumpling Soup",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Chi%20Asian%20Cookhouse%2Fdumpling%20soup.jpg?alt=media&token=893af0a3-d941-476f-b5b6-376c07ebe93a",
+      "price" : "235",
+      "res_id" : "006"
+    },
+    "22" : {
+      "description" : "Cabbage soaked in the flavors of garlic, ginger, soya sauce, vinegar and chilli flakes. ",
+      "food_name" : "Korean Salad with Kimchi",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Chi%20Asian%20Cookhouse%2Fkimchi.jpg?alt=media&token=add39c0b-33cc-4c80-86fd-747fea7b2e1d",
+      "price" : "315",
+      "res_id" : "006"
+    },
+    "23" : {
+      "description" : "Prawn fry recipe is a sea food dish tried by me and prawns fry is shallow fried in little bit of oil ",
+      "food_name" : "Fried Prawn",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Chi%20Asian%20Cookhouse%2Fprawns.jpg?alt=media&token=5203e733-8ce2-477a-aac5-e1fa78e175ca",
+      "price" : "350",
+      "res_id" : "006"
+    },
+    "24" : {
+      "description" : "THE ULTIMATE CHOCOLATE INDULGENCE! THIS DECADENT CHOCOLATE TRUFFLE CAKE IS PERFECT FOR THE CHOCOLATE LOVER IN YOUR LIFE. RICH CHOCOLATE CAKE PAIRED WITH A SILKY CHOCOLATE GANACHE FROSTING.",
+      "food_name" : "Chocolate Truffle Cake",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Theos%2Fcholocate%20tuffle.jpg?alt=media&token=ce6a6741-f627-497e-ad97-c1d48febf587",
+      "price" : "950",
+      "res_id" : "007"
+    },
+    "25" : {
+      "description" : "This statuesque cake hides a sweet secret underneath its pecan sheath: brown-butter frosting and butterscotch-soaked layers spiked with rum, both of which make familiar flavors seem sophisticated.",
+      "food_name" : "Butterscotch Cake",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Theos%2FButterscotch%20Cake.jpg?alt=media&token=b5ae913e-fa39-4b10-a1e2-d169b00f1337",
+      "price" : "900",
+      "res_id" : "007"
+    },
+    "26" : {
+      "description" : "Swirl a fresh blueberry puree into the filling and over the finished cheesecake for a double shot of delicious berry flavor. Combine graham cracker and vanilla wafer crumbs for a great-tasting crust.",
+      "food_name" : "Blueberry Cheese Cake",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Theos%2Fblueberry-cheesecake.jpg?alt=media&token=4a2efb8f-0fbc-4e93-bdea-78ef6c213049",
+      "price" : "250",
+      "res_id" : "007"
+    },
+    "27" : {
+      "description" : "It is perfect option for all the vegetarians out there who are looking to binge on something tasty yet vegetarian.",
+      "food_name" : "Veg Cheese Burger",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/wat-a-burger%2Fveg_cheese_burger.jpg?alt=media&token=7d3f31be-6981-4259-a2be-734da3c752bd",
+      "price" : "100",
+      "res_id" : "008"
+    },
+    "28" : {
+      "description" : "chicken burgers are flavorful, fairly simple to make, and quite delicious. I serve these burgers on chive biscuits with tomato chutney",
+      "food_name" : "Chicken Burger",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/wat-a-burger%2Fchicken-burger.jpg?alt=media&token=00e2809e-99fe-4cf6-a00b-36d2498ba8d4",
+      "price" : "120",
+      "res_id" : "008"
+    },
+    "29" : {
+      "description" : "Rich in flavours, this festive recipe is prepared by marinating paneer cubes with lime juice and cooked in a thick cream tomato gravy. ",
+      "food_name" : "Paneer Tikka Masala",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/notable%20foods%2Fpaneer-tikka-masala.jpg?alt=media&token=9457b7f5-d26d-4429-8b6d-f4147b339dff",
+      "price" : "150",
+      "res_id" : "009"
+    },
+    "30" : {
+      "description" : "Dal makhani is one of the most popular Indian dishes. This spicy lentil preparation is made a mix of rajma or red kidney beans and whole black gram or sabut urad dal and a perfect blend of whole spices. The recipe does complete justice to the name and uses plenty of butter which balances out the heat from the spices and makes the final dal rich and creamy.",
+      "food_name" : "Daal Makhani",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/notable%20foods%2Fdal-makhani.jpg?alt=media&token=6d72fe81-53df-424b-ae48-2808650d6d80",
+      "price" : "130",
+      "res_id" : "009"
+    },
+    "31" : {
+      "description" : " flavoured rice recipe prepared with jeera or cumin seeds. this rice recipe makes good companion for dal makhni or dal tadka recipe",
+      "food_name" : "Jeera Rice",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/notable%20foods%2FJeera--Rice.jpg?alt=media&token=24150cad-04f7-4eb5-ada1-81c9357193ac",
+      "price" : "120",
+      "res_id" : "009"
+    },
+    "32" : {
+      "description" : "Stuffed Mushroom is an interesting snack recipe made using button mushroom, garlic mayonnaise, bread crumbs, onion, spinach, all purpose flour and corn flour.",
+      "food_name" : "Stuffed Tandoori Mashroom",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/punjabi%20by%20nature%2Fstuffed-mushroom.jpg?alt=media&token=e64bcedd-3885-492d-a0ca-6ff7f2279467",
+      "price" : "400",
+      "res_id" : "010"
+    },
+    "33" : {
+      "description" : "Melt in your mouth kebabs made of spiced yoghurt mixed with besan.",
+      "food_name" : "Dahi ke Kabab",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/punjabi%20by%20nature%2FDahi-Ke-Kabab.jpg?alt=media&token=8925982c-ac72-4abd-a367-ff2edfbd4066",
+      "price" : "350",
+      "res_id" : "010"
+    },
+    "34" : {
+      "description" : " Dal Tadka is a Dhaba Staple,Toor Dal made with onions, tomato’s, garlic and ginger. Topped with a browned garlic and hing Tadka",
+      "food_name" : "Daal Tadka",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/yellow%20chilli's%2Fdal-tadka.jpg?alt=media&token=0d856ddf-5b0f-47ee-8571-de0ddd5cd2e9",
+      "price" : "300",
+      "res_id" : "011"
+    },
+    "35" : {
+      "description" : "Fruit cream is a dessert that’s popular in India. It’s made by mixing bite-sized fruit pieces with whipped cream, sour cream, and sugar",
+      "food_name" : "Fruit Cream Dessert",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/yellow%20chilli's%2Ffruit%20cream.jpg?alt=media&token=ed2117da-895d-44b2-9ffd-610c6dd67633",
+      "price" : "100",
+      "res_id" : "011"
+    },
+    "36" : {
+      "description" : "The Indian name for a round platter used to serve food. Thali is also used to refer to an Indian-style meal made up of a selection of various dishes which are served on a platter.",
+      "food_name" : "Veg Thali",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/pind%20balluchi%2Fveh%20thali.jpg?alt=media&token=cb906ca8-0bae-4444-8e58-db7004b48f8e",
+      "price" : "335",
+      "res_id" : "012"
+    },
+    "37" : {
+      "description" : "Crisp outside, soft inside slightly sweet and slightly spicy – honey chilli potatoes are the perfect things to eat when you want a little bit of everything.",
+      "food_name" : "Honey Chilli Potatos",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/haristro%2FHoney.chilli.potatoes.jpg?alt=media&token=6a404b4c-e36b-4310-9f18-ef9d9aa2c50b",
+      "price" : "160",
+      "res_id" : "013"
+    },
+    "38" : {
+      "description" : "Tandoori chicken is chicken dish prepared by roasting chicken marinated in yoghurt and spices in a tandoor, a cylindrical clay oven",
+      "food_name" : "Tandoori Chicken",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/chawala%2Ftandoori%20chicken.jpg?alt=media&token=63193e07-d380-46a7-8e24-2894251aa8ed",
+      "price" : "250",
+      "res_id" : "014"
+    },
+    "39" : {
+      "description" : "Espresso is coffee brewed by expressing or forcing out a small amount of nearly boiling water under pressure through finely ground coffee beans.",
+      "food_name" : "Espresso Coffee",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/international%20coffee%20house%2FEspresso-Beans.jpg?alt=media&token=974c6a65-f946-4179-a3f6-64415550b1de",
+      "price" : "60",
+      "res_id" : "015"
+    },
+    "40" : {
+      "description" : "Chocolate Cake Donuts are different than traditional Donuts but equally as delicious.",
+      "food_name" : "Chocolate Donuts",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/mad%20over%20donuts%2FBaked-Chocolate-Donuts.jpg?alt=media&token=1229c7dd-f4d1-4081-8d6b-357bd8a62ced",
+      "price" : "40",
+      "res_id" : "016"
+    },
+    "41" : {
+      "description" : "One of the most loved Indian snacks, this dal kachori is absolutely sensational.",
+      "food_name" : "Daal Kachori",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/misht%2FDALKACHORI-333.jpg?alt=media&token=0f8dd171-f815-4018-8654-87991a49580c",
+      "price" : "80",
+      "res_id" : "018"
+    },
+    "-LCChB0o2Gadyv1pLKS0" : {
+      "description" : "eyr",
+      "food_name" : "ye",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/images%2F6e7aeb60-1115-4125-8017-5ed9ca171bba?alt=media&token=d552a4f0-9767-4f8a-bd50-2d899de0b686",
+      "price" : "12",
+      "res_id" : "001"
+    },
+    "-LDZtVLr4rSmw-3-Wz-2" : {
+      "description" : "yebshh",
+      "food_name" : "asdf",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/images%2Fde0f0ae8-bee3-479a-8576-ebe8c978ade6?alt=media&token=7ddab9a9-8e2a-487f-b945-e802ea1022aa",
+      "price" : "100",
+      "res_id" : "001"
+    }
+  },
+  "Rating" : {
+    "-LAJ-dS2vWB5gM4x4Rrl" : {
+      "comment" : "fhfd",
+      "foodId" : "17",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LAJ-dS6cMmWXTY3-dwj" : {
+      "comment" : "fhfd",
+      "foodId" : "17",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LC4mNtzk6pgf0R6g_CJ" : {
+      "comment" : "tasty",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LC4mNu28rUugjtTco8j" : {
+      "comment" : "tasty",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LCCZDQgYr0zo4AOitQ2" : {
+      "comment" : "Bshsbs",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LCCZDQk4aIIhrTc2Kzt" : {
+      "comment" : "Bshsbs",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LCCp1SonUUp6v3ge9R_" : {
+      "comment" : "bfbf",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LCCp1SrNL0OE_RuO4OI" : {
+      "comment" : "bfbf",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LDZsh4dCKFM11MKKReG" : {
+      "comment" : "good",
+      "foodId" : "40",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LDZsh4iQOnSQAO3ENMd" : {
+      "comment" : "good",
+      "foodId" : "40",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LDjZKJm3PAYQWhJkygW" : {
+      "comment" : "",
+      "foodId" : "01",
+      "rateValue" : "1",
+      "userPhone" : "7838849615"
+    },
+    "-LDjZKKQxhPaDtdgZ3m6" : {
+      "comment" : "",
+      "foodId" : "01",
+      "rateValue" : "1",
+      "userPhone" : "7838849615"
+    },
+    "-LDoj_cdEcQ-WJXwCMR3" : {
+      "comment" : "fxt",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "-LDoj_ciHfRpM_9z-PaR" : {
+      "comment" : "fxt",
+      "foodId" : "01",
+      "rateValue" : "3",
+      "userPhone" : "7838849615"
+    },
+    "7838849615" : {
+      "comment" : "good",
+      "foodId" : 1,
+      "rateValue" : 4,
+      "userPhone" : 7838849615
+    }
+  },
+  "Requests" : {
+    "1526019172887" : {
+      "address" : "National Highway 24, Near Dasna, Adhyatmik Nagar, Ghaziabad, Uttar Pradesh 201009, India",
+      "comment" : "yxy",
+      "foods" : [ {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "2",
+        "userPhone" : "7838849615"
+      }, {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "2",
+        "userPhone" : "7838849615"
+      } ],
+      "latLng" : "28.681226,77.509006",
+      "name" : "Avneesh Jaiswal",
+      "payment" : "Cash On Delivery",
+      "payment_method" : "Unpaid",
+      "phone" : "7838849615",
+      "status" : "0",
+      "total" : "1200"
+    },
+    "1527479771393" : {
+      "address" : "National Highway 24, Near Dasna, Adhyatmik Nagar, Ghaziabad, Uttar Pradesh 201009, India",
+      "comment" : "good",
+      "foods" : [ {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "1",
+        "userPhone" : "7838849615"
+      }, {
+        "price" : "40",
+        "productId" : "40",
+        "productName" : "Chocolate Donuts",
+        "quantity" : "2",
+        "userPhone" : "7838849615"
+      } ],
+      "latLng" : "28.681226,77.509006",
+      "name" : "Avneesh Jaiswal",
+      "payment" : "Cash On Delivery",
+      "payment_method" : "Unpaid",
+      "phone" : "7838849615",
+      "status" : "0",
+      "total" : "380"
+    },
+    "1527745807503" : {
+      "address" : "Mehrauli - Badarpur Rd, Sector 3, Pushp Vihar, New Delhi, Delhi 110017, India",
+      "comment" : "hurry",
+      "foods" : [ {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "2",
+        "userPhone" : "7838849615"
+      } ],
+      "latLng" : "28.5161375,77.2247297",
+      "name" : "Avneesh Jaiswal",
+      "payment" : "Cash On Delivery",
+      "payment_method" : "Unpaid",
+      "phone" : "7838849615",
+      "status" : "0",
+      "total" : "600"
+    },
+    "1533902731981" : {
+      "address" : "eSeva Ln, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072, India",
+      "comment" : "hurry",
+      "foods" : [ {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "1",
+        "userPhone" : "7838849615"
+      } ],
+      "latLng" : "17.4893082,78.3926815",
+      "name" : "Avneesh Jaiswal",
+      "payment" : "Cash On Delivery",
+      "payment_method" : "Unpaid",
+      "phone" : "7838849615",
+      "status" : "0",
+      "total" : "300"
+    },
+    "1533902814764" : {
+      "address" : "Plot No: S2, Survey No: 1050, J.N.T.U Road, Phase 3, KPHB Colony, Kukatpally, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072, India",
+      "comment" : "vzhz",
+      "foods" : [ {
+        "price" : "300",
+        "productId" : "01",
+        "productName" : "Chicken-Hyderabadi-Biryani",
+        "quantity" : "1",
+        "userPhone" : "7838849615"
+      } ],
+      "latLng" : "17.4899643,78.3931271",
+      "name" : "Avneesh Jaiswal",
+      "payment" : "Cash On Delivery",
+      "payment_method" : "Unpaid",
+      "phone" : "7838849615",
+      "status" : "0",
+      "total" : "300"
+    }
+  },
+  "Restaurant" : {
+    "001" : {
+      "AVG-Time-To-Deliver" : "73 mins",
+      "Address" : "Sector 41, Noida",
+      "Delivery-Charges" : "Rs 50",
+      "Name" : "Kebabee",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kebabee%2Fkebabee.jpg?alt=media&token=5b4f7a21-5565-489b-a1ef-49bdb0823678"
+    },
+    "002" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 50, Noida",
+      "Delivery-Charges" : "Rs 20",
+      "Name" : "Kung-Fu-Kitchen",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/kung-fu-kitchen%2Fkung-fu-kitchen.png?alt=media&token=0c57ebf4-f27b-4fc3-8aeb-2f6c19cc23ff"
+    },
+    "003" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 12, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Berco's",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Berco's%2Fbercos.jpg?alt=media&token=cffb073f-ba6a-434c-9336-421c2bd47e06"
+    },
+    "004" : {
+      "AVG-Time-To-Deliver" : "40 mins",
+      "Address" : "Sector 50, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Biryani By Kilo",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Biryani%20by%20Kilos%2Fbiryanibykilos.jpg?alt=media&token=b4141a08-1d82-4e8a-8f39-dbc5d6ca8aaf"
+    },
+    "005" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 12, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Imperfecto",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/imperfecto%2Fimperfecto.jpg?alt=media&token=6f472d11-5cf1-4289-8b35-246674691f06"
+    },
+    "006" : {
+      "AVG-Time-To-Deliver" : "50 mins",
+      "Address" : "Sector 18, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Chi Asian Cookhouse",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Chi%20Asian%20Cookhouse%2Fchi.jpg?alt=media&token=54cbc492-4708-41fd-aa6f-756f2d4ab081"
+    },
+    "007" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 41, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Theos",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/Theos%2Ftheos.jpg?alt=media&token=1b65f109-06d5-49e3-9da7-d63d741a86c6"
+    },
+    "008" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 74, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Wat-a-Burger!",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/wat-a-burger%2Fwataburger.jpg?alt=media&token=170863c7-6c56-47d5-8ac8-0739daba2fca"
+    },
+    "009" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 72, Noida  ",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Notable Foods",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/notable%20foods%2FNotable.jpeg?alt=media&token=ea58ede1-1f21-4df5-8aa0-895d8a27b498"
+    },
+    "010" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 18, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Punjabi By Nature",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/punjabi%20by%20nature%2FPunjabi-By-Nature.jpg?alt=media&token=21648aa7-6141-4478-b446-be95e3afb139"
+    },
+    "011" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 63, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "The Yellow Chill",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/yellow%20chilli's%2Fyellow%20chilli's.jpg?alt=media&token=65a49e41-5d58-4105-ae60-cfa5217e7c7d"
+    },
+    "012" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 38, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Pind Balluchi",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/pind%20balluchi%2Fpind%20balluchi.jpg?alt=media&token=2327f1ca-3c1d-4adb-947c-f1b011270a12"
+    },
+    "013" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Haristo Cafe & Pizzeria",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/haristro%2Fharisto.jpg?alt=media&token=fe07fefe-90df-4150-952f-a635167e2b18"
+    },
+    "014" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Chawla's Tandoori Junction",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/chawala%2Fchawala.jpg?alt=media&token=603bb3cb-e05c-4711-98ca-999729b501d9"
+    },
+    "015" : {
+      "AVG-Time-To-Deliver" : "30 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "The Haven International Coffee House",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/international%20coffee%20house%2Fheaven.jpg?alt=media&token=97b34504-9d22-41cf-a961-0bdec3bb8cb1"
+    },
+    "016" : {
+      "AVG-Time-To-Deliver" : "4 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Sir John Bakery Cafe",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/sir%20john's%2Fsir%20john's.jpg?alt=media&token=6485f18d-a42f-4c53-89bf-cafa2db14a46"
+    },
+    "017" : {
+      "AVG-Time-To-Deliver" : "60 mins",
+      "Address" : "Sector 18, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Mad Over Donuts",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/mad%20over%20donuts%2Fmadoverdonuts.jpg?alt=media&token=bf911efd-29ef-410a-9a46-f1c7d52137ee"
+    },
+    "018" : {
+      "AVG-Time-To-Deliver" : "40 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Misht Utsav",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/misht%2Fmisht-utsav-noida-fbpg9.jpg?alt=media&token=85076f7f-9aa3-4a45-8b66-4d74da820e70"
+    },
+    "019" : {
+      "AVG-Time-To-Deliver" : "70 mins",
+      "Address" : "Sector 127, Noida",
+      "Delivery-Charges" : "Rs 100",
+      "Name" : "Dunkin' Donuts",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/dunkin%20donuts%2Fdunkin.jpg?alt=media&token=97812941-6a25-4a8a-9207-bd2cb30a0523"
+    },
+    "020" : {
+      "AVG-Time-To-Deliver" : "42 mins",
+      "Address" : "Sector 72, Noida",
+      "Delivery-Charges" : "Rs 120",
+      "Name" : "Dilli Bakery",
+      "Payment-Option" : "Cash and Online",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myproject-7ce35.appspot.com/o/dilli%20bakery%2Fdilli-bakery-noida-sector-76-noida-bakeries-vjw7h.jpg?alt=media&token=a9e7fd65-1da3-427f-a5ab-72321762ee1a"
+    }
+  },
+  "Tokens" : {
+    "12345" : {
+      "serverToken" : false,
+      "token" : "dLjcjFjuFWM:APA91bFVngA1aA0u5yfXywDjMIqBMPR_LOkRDIMcNIs7myux65ieg_kr07kpnkEl97Tsw_VuppilzfB7KBkFmZ7DzsRyHnG_zxP0U0xgIQjOYQcXA5LXRszD792YAB7hW29QvpufrjeP"
+    },
+    "7838849615" : {
+      "serverToken" : false,
+      "token" : "clFsk2kZtV8:APA91bEptCMKdVE1d8BQCtrCXGTPP4EluXScTKv3EbELGWWYdQw26sg1zHtz4IWrUwgG8blccSsgClGVesnCzv41S2KZeFyWat43DD2aaLPlgAxPLv8EA_8rd9u7QEUknXslx8Nb4GBeWlwzYWtXGCsr9nZa4kZSKA"
+    }
+  },
+  "User" : {
+    "123456789" : {
+      "Name" : "Arjun Jaiswal",
+      "Password" : "1234",
+      "res_id" : "001"
+    },
+    "7838849615" : {
+      "Name" : "Avneesh Jaiswal",
+      "Password" : "avneesh1234"
+    },
+    "8860302289" : {
+      "name" : "Aashi Jain",
+      "password" : "aashi1234"
+    },
+    "9580880474" : {
+      "name" : "avneesh",
+      "password" : "1234"
+    },
+    "9716037564" : {
+      "Name" : "Abhishek Jaiswal",
+      "Password" : "abhishek1234"
+    },
+    "9897328548" : {
+      "name" : "Aashi jain",
+      "password" : "aashi1234"
+    }
+  }
+}
